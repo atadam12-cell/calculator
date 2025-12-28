@@ -3,6 +3,6 @@
 
 int main() {
 
-std::cout << "kedi" << std::endl;
+std::cout << "kopek" << std::endl;
 
 }
